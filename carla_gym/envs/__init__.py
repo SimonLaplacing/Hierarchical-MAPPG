@@ -1,1 +1,0 @@
-from carla_gym.envs.carla_env_v1 import CarlaGymEnv
